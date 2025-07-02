@@ -1,0 +1,22 @@
+#Why build a package? 
+- Makes code easier to reuse 
+- to avoid lots of copying and pasting
+- to keep your functions up to date 
+- to give your code to others. 
+
+Course Content: 
+- File Layout 
+- Import structure 
+- Making your packages installable 
+- Adding liscenses and README's 
+- Style and unit tests for a high quality package 
+- Registering and publishing your package to PyPi 
+- Using packaging templates. 
+
+-- Scripts, Modules and packages. 
+- Script: A python file which is run (python myscript.py)
+- Package: A directroy full of python code to be imported (i.e. numpy) 
+- Subpackage - A smaller package inside a package (e.g. numpy.random)
+- Module - A python file inside a package which stores the package code. 
+- Library - either a package, or collection of packages (e.g. the Python standard library (math, os, datetime))
+
